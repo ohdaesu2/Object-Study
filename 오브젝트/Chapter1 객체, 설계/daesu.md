@@ -47,6 +47,9 @@ Chapter1 객체, 설계
 ***
 <img width="677" alt="절차지향프로그래밍" src="https://user-images.githubusercontent.com/90598930/145749384-e11f92f3-b16a-4da2-a1af-92f89ec6d2d7.png">
 책임이 중앙집중된 절차지향 프로그래밍
+
+
+
 <img width="657" alt="객체지향 프로그래밍" src="https://user-images.githubusercontent.com/90598930/145749348-c9350358-d6cc-4b8e-84bb-32fd9cfe8c95.png">
 책임이 분산된 객체지향 프로그래밍
 
