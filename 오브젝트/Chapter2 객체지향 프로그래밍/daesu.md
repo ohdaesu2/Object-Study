@@ -55,8 +55,8 @@ Chapter2 객체지향 프로그래밍
 ### 오버라이딩과 오버로딩 
 오버라이딩(overriding): 부모 클래스에 정의된 같은 이름, 같은 파라미터 목록을 가진 메서드를 자식 클래스에서 재정의하는 경우를 가리킨다. 
 자식 클래스의 메서드는 오버라이딩한 부모 클래스의 메서드를 가리기 때문에 외부에서는 부모 클래스의 메서드가 보이지 않는다. 
-<img width="621" alt="스크린샷 2021-12-20 오후 1 12 59" src="https://user-images.githubusercontent.com/90598930/146710874-fa18c8dc-83fd-4f23-ae3e-a07f64314d34.png">
+<img width="400" alt="스크린샷 2021-12-20 오후 1 12 59" src="https://user-images.githubusercontent.com/90598930/146710874-fa18c8dc-83fd-4f23-ae3e-a07f64314d34.png">
 
 오버로딩(overloading): 메서드의 이름은 같지만 제공되는 파라미터의 목록이 다르다. 오버로딩 메서드는 원래의 메서드를 가리지 않기 때문에 공존이 가능하다. 
-<img width="438" alt="스크린샷 2021-12-20 오후 1 12 40" src="https://user-images.githubusercontent.com/90598930/146710870-eddf9476-f85e-40db-8123-b02b88a5b8bc.png">
+<img width="400" alt="스크린샷 2021-12-20 오후 1 12 40" src="https://user-images.githubusercontent.com/90598930/146710870-eddf9476-f85e-40db-8123-b02b88a5b8bc.png">
 
